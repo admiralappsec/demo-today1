@@ -3,7 +3,7 @@ name: Build and Deploy Java app to Azure Spring Cloud
 on:
   push:
     branches:
-      - new-app-w-github-action
+      - new-app
 
 # CONFIGURATION
 # For help, go to https://github.com/Azure/Actions
