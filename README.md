@@ -1,4 +1,4 @@
-# New-app branch
+# New-app branch.
 
 This repository branch houses artifacts for the 3rd exercise of the SpringOne Workshop.
 
